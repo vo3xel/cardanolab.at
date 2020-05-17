@@ -10,4 +10,4 @@ Cardanolab runs a jorumgandr stake pool for the SHELLEY INCENTIVIZED TESTNET.
 
 Cardanolab team: mail@cardanolab.at
 
-(https://cardanolab.at/impressum.html)[Impressum]
+[Impressum](https://cardanolab.at/impressum.html)
