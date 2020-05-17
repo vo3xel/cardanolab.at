@@ -17,7 +17,7 @@ Quelle: Erstellt mit dem Impressum Generator von [https://www.firmenwebseiten.at
 
 # EU-Streitschlichtung
 Gemäß Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren.
-Verbraucher haben die Möglichkeit, Beschwerden an die Online Streitbeilegungsplattform der Europäischen Kommission unter http://ec.europa.eu/odr?tid=221126185 zu richten. Die dafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.
+Verbraucher haben die Möglichkeit, Beschwerden an die Online Streitbeilegungsplattform der Europäischen Kommission unter [http://ec.europa.eu/odr?tid=221126185](http://ec.europa.eu/odr?tid=221126185) zu richten. Die dafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.
 
 Wir möchten Sie jedoch darauf hinweisen, dass wir nicht bereit oder verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
@@ -38,8 +38,8 @@ Alle Inhalte dieser Webseite (Bilder, Fotos, Texte, Videos) unterliegen dem Urhe
 Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.
 
 Die Bilderrechte liegen bei den folgenden Fotografen und Unternehmen:
+Michael Spitzer (Inhaber)
 
-Fotograf Mustermann
 # Datenschutzerklärung
 ## Datenschutz
 Wir haben diese Datenschutzerklärung (Fassung 17.05.2020-221126185) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
@@ -57,7 +57,7 @@ Ihnen stehen laut den Bestimmungen der DSGVO und des österreichischen Datenschu
 * Widerspruchsrecht (Artikel 21 DSGVO)
 * Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung — einschließlich Profiling — beruhenden Entscheidung unterworfen zu werden (Artikel 22 DSGVO)
 
-Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren, welche in Österreich die Datenschutzbehörde ist, deren Webseite Sie unter https://www.dsb.gv.at/ finden.
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren, welche in Österreich die Datenschutzbehörde ist, deren Webseite Sie unter [https://www.dsb.gv.at](https://www.dsb.gv.at) finden.
 
 ## TLS-Verschlüsselung mit https
 Wir verwenden https um Daten abhörsicher im Internet zu übertragen (Datenschutz durch Technikgestaltung Artikel 25 Absatz 1 DSGVO). Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet können wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schlosssymbol links oben im Browser und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse.
