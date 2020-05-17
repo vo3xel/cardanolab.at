@@ -13,7 +13,7 @@ Premstätterstraße 10,
 
 E-Mail: mail@cardanolab.at
 
-Quelle: Erstellt mit dem Impressum Generator von firmenwebseiten.at in Kooperation mit limegreen.at
+Quelle: Erstellt mit dem Impressum Generator von [https://www.firmenwebseiten.at](https://www.firmenwebseiten.at/) in Kooperation mit [https://www.limegreen.at](https://www.limegreen.at)
 
 # EU-Streitschlichtung
 Gemäß Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren.
@@ -62,4 +62,4 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 ## TLS-Verschlüsselung mit https
 Wir verwenden https um Daten abhörsicher im Internet zu übertragen (Datenschutz durch Technikgestaltung Artikel 25 Absatz 1 DSGVO). Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet können wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schlosssymbol links oben im Browser und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse.
 
-Quelle: Erstellt mit dem Datenschutz Generator von firmenwebseiten.at in Kooperation mit limegreen.at
+Quelle: Erstellt mit dem Datenschutz Generator von [https://www.firmenwebseiten.at](https://www.firmenwebseiten.at/) in Kooperation mit [https://www.limegreen.at](https://www.limegreen.at)
