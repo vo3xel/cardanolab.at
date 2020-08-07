@@ -14,7 +14,7 @@ The stake pool is hosted on Microsoft Azure to ensure a high reliability and ava
 
 Detailed information about the stake pool is available on [Pooltool.io](https://pooltool.io/pool/1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05/blocks).
 
-Additional stake pool informations is available on [Adapools.org](https://adapools.org/node/1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05)
+Additional stake pool informations is available on [Adapools.org](https://adapools.org/pool/1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05)
 
 ### Support or Contact
 
