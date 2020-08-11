@@ -20,4 +20,4 @@ Additional stake pool informations is available on [Adapools.org](https://adapoo
 
 Cardanolab team: mail@cardanolab.at
 
-[Impressum](https://cardanolab.at/impressum.html)
+[Impressum / Imprint](https://cardanolab.at/impressum.html)
