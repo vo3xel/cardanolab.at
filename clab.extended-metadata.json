@@ -4,8 +4,8 @@
         "url_png_logo": "https://github.com/cardanolab/cardanolab.at/raw/master/cardanolab-logo.png",
         "location": "Graz, Austria",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "",
+            "telegram_handle": "cardanolab",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -22,18 +22,16 @@
         },
         "about": {
             "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "server": "Microsoft Azure VMs.",
             "company": "..."
         },
         "rss": "http(s) url to valid RSS feed"
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05"
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "00000036d515e12e18cd3c88c74f09a67984c2c279a5296aa96efe89"
     },
     "telegram-admin-handle": {
         "0": "mnmnmnmnnmn"
