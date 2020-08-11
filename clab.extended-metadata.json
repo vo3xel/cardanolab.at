@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/cardanolab/cardanolab.at/raw/master/cardanolab-logo.png",
-        "url_png_logo": "http(s) url to pool logo",
+        "url_png_icon_64x64": "https://github.com/cardanolab/cardanolab.at/raw/master/cardanolab-icon.png",
+        "url_png_logo": "https://github.com/cardanolab/cardanolab.at/raw/master/cardanolab-logo.png",
         "location": "Graz, Austria",
         "social": {
             "twitter_handle": "AdapoolsO",
