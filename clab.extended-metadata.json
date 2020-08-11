@@ -16,24 +16,17 @@
             "name": "Michael Spitzer",
             "addr": "Premstätterstraße 10",
             "city": "Graz",
-            "country": "Austria",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "country": "Austria"
         },
         "about": {
             "me": "...",
-            "server": "Microsoft Azure VMs.",
-            "company": "..."
-        },
-        "rss": "http(s) url to valid RSS feed"
+            "server": "Microsoft Azure VMs."
+        }
     },
     "my-pool-ids": {
         "0": "1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05"
     },
     "when-satured-then-recommend": {
         "0": "00000036d515e12e18cd3c88c74f09a67984c2c279a5296aa96efe89"
-    },
-    "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
     }
 }
