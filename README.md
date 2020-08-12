@@ -6,8 +6,6 @@ This is the webpage of cardanolab.at.
 
 Cardanolab runs a haskell stake pool for the MAINNET.
 
-![](cardano-node-info.png)
-
 The stake pool is hosted on Microsoft Azure to ensure a high reliability and availibility. The stake pool is running on Virtual Machines (VMs) with 2 CPUs and 8 GB RAM with Premium SSD. A state-of-the-art firewall protects the stake pool from being attacked.
 
 ![](cardano-node.png)
