@@ -14,7 +14,7 @@ Detailed information about the stake pool is available on [Pooltool.io](https://
 
 Additional stake pool informations is available on [Adapools.org](https://adapools.org/pool/1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05)
 
-### Support or Contact
+### Contact
 
 Mail: [mail@cardanolab.at](mailto:mail@cardanolab.at)
 Twitter: [cardanolab](https://twitter.com/cardanolab)
