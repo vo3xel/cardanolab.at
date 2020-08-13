@@ -16,9 +16,9 @@ Additional stake pool informations is available on [Adapools.org](https://adapoo
 
 ### Contact
 
-Mail: [mail@cardanolab.at](mailto:mail@cardanolab.at)
-Twitter: [cardanolab](https://twitter.com/cardanolab)
-Telegram channel: [cardanolab](https://t.me/cardanolab)
+Mail: [mail@cardanolab.at](mailto:mail@cardanolab.at) 
+Twitter: [cardanolab](https://twitter.com/cardanolab) 
+Telegram channel: [cardanolab](https://t.me/cardanolab) 
 
 ### Legal
 [Impressum / Imprint](https://cardanolab.at/impressum.html)
