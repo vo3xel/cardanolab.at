@@ -2,7 +2,7 @@
 
 This is the webpage of cardanolab.at.
 
-![](ada.png)
+![](cardanolab-logo.png)
 
 Cardanolab runs a Cardano stake pool built with love in Austria.
 
