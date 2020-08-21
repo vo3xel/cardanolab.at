@@ -1,10 +1,7 @@
 ---
 ---
 
-header h1 {
-  color: #5195B6 !important;
-}
-maincontent h2 {
-  color: #5195B6 !important;
+h1, h2, h3, h4, h5, h6 {
+    color: #5195B6 !important;
 }
 @import "{{ site.theme }}";
