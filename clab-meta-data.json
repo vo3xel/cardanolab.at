@@ -3,5 +3,5 @@
   "description": "Cardano stake pool made with love in Austria.",
   "ticker": "CLAB",
   "homepage": "https://cardanolab.at",
-  "extended": "https://bit.ly/2DJOGpw"
+  "extended": "https://cardanolab.at/clab-extended-meta-data.json"
 }
