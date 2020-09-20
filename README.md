@@ -14,7 +14,7 @@ The current status and the uptime of the relay node can be checked online: [rela
 
 ## Cardano stake pool info
 
-<iframe width="500" height="400" frameborder="0" src="https://js.adapools.org/widget.html?pool=1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05&whitelabel=true"><a href="https://adapools.org/pool/1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05">Detail</a></iframe>
+<iframe width="500" height="270" frameborder="0" src="https://js.adapools.org/widget.html?pool=1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05&whitelabel=true"><a href="https://adapools.org/pool/1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05">Detail</a></iframe>
 
 ## Contact
 
