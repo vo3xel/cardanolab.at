@@ -20,12 +20,12 @@ The current status and the uptime of the relay node can be checked online: [rela
 
 <iframe width="500" height="400" frameborder="0" src="https://js.adapools.org/widget.html?pool=1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05"><a href="https://adapools.org/pool/1b802032c4b0a260000cf5a36a30d0749baae45e9392626daea1cd05">Detail</a></iframe>
 
-### Contact
+## Contact
 
 Mail: [mail@cardanolab.at](mailto:mail@cardanolab.at)  
 Twitter: [cardanolab](https://twitter.com/cardanolab)  
 Telegram channel: [cardanolab](https://t.me/cardanolab)  
 Discord server: [discord](https://discord.gg/VXPGEem)
 
-### Legal
+## Legal
 [Impressum / Imprint](https://cardanolab.at/impressum.html)
