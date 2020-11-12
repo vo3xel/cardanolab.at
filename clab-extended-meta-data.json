@@ -37,14 +37,9 @@
                 "key": "ab54d362c8eb4935b9efc34a9ce874eb"
             },
             "1": {
-                "name": "Cardanolab relay - Austria",
-                "type": "relay",
-                "key": "34789d34fa0c8615799377f942af5628"
-            },
-            "2": {
                 "name": "Cardanolab block producer",
                 "type": "bp",
-                "key": "636c47ff5abc52912b78c9493d52f2f9"
+                "key": "34789d34fa0c8615799377f942af5628"
             }
         }
     }
