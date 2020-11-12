@@ -6,7 +6,11 @@ This is the webpage of cardanolab.at.
 
 Cardanolab runs a Cardano stake pool built with love in Austria.
 
-The stake pool is hosted on Microsoft Azure to ensure a high reliability and availibility. The stake pool is running on Virtual Machines (VMs) with 2 CPUs and 8 GB RAM with Premium SSD. A state-of-the-art firewall protects the stake pool from being attacked.
+The relay is hosted on Microsoft Azure to ensure a high reliability and availibility. The block producer is running on a dedicated server located in Austria. A state-of-the-art firewall protects the stake pool from being attacked.
+
+## Costs
+
+We are starting the service with 0% relative fee until 01.01.2021. Then we will adust the factor between 0% - 2% to have a resonable fee. We guarantee that the relative fee will NEVER exceed 2%.
 
 ## Relay node status
 
