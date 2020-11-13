@@ -7,8 +7,8 @@ Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §6
 
 Michael Spitzer
 
-Premstätterstraße 10,
-8054 Seiersberg,
+Neuholdaugasse 36/6,
+8010 Graz,
 Österreich
 
 E-Mail: mail@cardanolab.at
@@ -70,8 +70,8 @@ Information in accordance with §5 of the E-Commerce Act, §14 of the Unternehme
 
 Michael Spitzer
 
-Premstätterstraße 10,
-8054 Seiersberg,
+Neuholdaugasse 36/6,
+8010 Graz,
 Österreich
 
 Email: mail@cardanolab.at
