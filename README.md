@@ -10,7 +10,7 @@ The relay is hosted on Microsoft Azure to ensure a high reliability and availibi
 
 ## Costs
 
-We are starting the service with 0% relative fee until 01.01.2021. Then we will adust the factor between 0% - 2% to have a resonable fee. We guarantee that the relative fee will NEVER exceed 2%.
+We are starting the service with 0% relative fee until 01.01.2021. Then we will adust the factor between 0% - 2% to have a reasonable fee. We guarantee that the relative fee will NEVER exceed 2%.
 
 ## Relay node status
 
